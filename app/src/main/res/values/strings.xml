@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Azwar LB</string>
+    <string name="str_username">Username</string>
+    <string name="str_phone_number">Phone Number</string>
+    <string name="str_password">Password</string>
+    <string name="str_daftar">Daftar</string>
+    <string name="str_kode_sms">Kode SMS</string>
+    <string name="str_konfirmasi_sms">Konfirmasi</string>
+    <string name="str_isi_sms">Masukan Kode SMS</string>
+    <string name="title_activity_otp">OtpActivity</string>
+</resources>
